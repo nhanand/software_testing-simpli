@@ -1,0 +1,40 @@
+               SOFTWARE TESTING 23 MARCH
+               --------------------------
+
+# manual testing need not to tell to anybody say software testing.
+
+testing fundamentals :
+
+------------------------------------------------
+
+Test plan and Test strategy
+===========================
+Test Strategy
+
+- more focus on testing types.
+
+=============================
+
+Unit testing/component Testing
+-------------------------------
+C = A+B;
+    2 7
+   -2 -5 = -7
+   .22 0
+   2/3 7/89
+   null null   null is not zero
+if ok then pass else it is consider as a bug
+   
+SMOKE LEVEL TESTING IN WHICH A HAS SOME VALUE AND BHAS SOME VALUE MAY ME DECIMAL FRACTION ANYTHING.
+
+
+
+
+
+
+
+
+
+
+
+
